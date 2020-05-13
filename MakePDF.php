@@ -1,4 +1,3 @@
-```php
 <?php
 
 class MakePDF
@@ -83,4 +82,3 @@ class MakePDF
     }
 
 }
-```
